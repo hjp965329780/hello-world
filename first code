@@ -1,0 +1,6 @@
+#include<bits/stdc++.h>
+using name space std;
+int main()
+{
+  cout<<"hello world!\n";
+}
